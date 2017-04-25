@@ -1,6 +1,6 @@
 {
   "name": "insula-stringselectors",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "Insula middleware that allows using strings as state selectors",
   "main": "index.js",
   "author": "Chandler Prall <chandler.prall@gmail.com>",

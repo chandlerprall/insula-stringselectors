@@ -1,4 +1,4 @@
-const InsulaStringSelectorsMiddleware = {
+var InsulaStringSelectorsMiddleware = {
     getPartialStateParseSelector: function insulaStringSelectorsGetPartialStateParseSelector(args) {
         var selector = args[0];
         if (typeof selector === 'string') {
